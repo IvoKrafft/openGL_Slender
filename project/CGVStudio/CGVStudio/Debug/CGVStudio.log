@@ -1,0 +1,45 @@
+﻿  Aabb.cpp
+  Application.cpp
+  BaseModel.cpp
+  BaseShader.cpp
+  Camera.cpp
+  color.cpp
+  ConstantShader.cpp
+  Framebuffer.cpp
+  IndexBuffer.cpp
+  ShaderLightMapper.cpp
+  Lights.cpp
+  LineBoxModel.cpp
+  LinePlaneModel.cpp
+  main.cpp
+  Matrix.cpp
+  Model.cpp
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(99,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(106,37): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(143,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(146,35): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(164,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(170,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(206,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\Model.cpp(207,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  PhongShader.cpp
+  rgbimage.cpp
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(46,11): warning C4244: "=": Konvertierung von "float" in "char", möglicher Datenverlust
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(52,9): warning C4309: "=": Verkürzung eines konstanten Wertes
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(64,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(65,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(75,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(76,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Ivo-9\Desktop\cgprakt6.1\src\rgbimage.cpp(77,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  ShadowMapGenerator.cpp
+  Texture.cpp
+  Code wird generiert...
+  Kompilieren...
+  TriangleBoxModel.cpp
+  TrianglePlaneModel.cpp
+  TriangleSphereModel.cpp
+  vector.cpp
+  VertexBuffer.cpp
+  Code wird generiert...
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  CGVStudio.vcxproj -> C:\Users\Ivo-9\Desktop\cgprakt6.1\CGVStudio\Debug\CGVStudio.exe
